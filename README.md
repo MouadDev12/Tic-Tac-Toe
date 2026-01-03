@@ -56,17 +56,3 @@ tic-tac-toe-ultimate/
 
 ---
 
-## 📸 Aperçu
-
-> Interface moderne avec effets Neon, IA intelligente et score dynamique.
-
----
-
-## 🔮 Améliorations futures
-
-* 💾 Sauvegarde du score (LocalStorage)
-* 👥 Mode 2 joueurs
-* 🔊 Effets sonores
-* 📱 Version mobile PWA
-
----
